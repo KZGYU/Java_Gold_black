@@ -1,4 +1,4 @@
-package Chapter1_6;
+package Chapter1_5;
 
 public class Outer {
 	void test() {
